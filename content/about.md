@@ -5,7 +5,7 @@ date = "2024-06-09"
 author = "Raul Larosa"
 +++
 
-My name is **Raul Larosa**, and I'm a fourth year IT student from Milan, Italy. As of this page's last update, I am 17 years old.
+My name is **Raul Larosa**, and I'm a fourth year IT student & aspiring sysadmin from Milan, Italy. As of this page's last update, I am 17 years old.
 
 While I previously dedicated most of my free time to Roblox development, I have slowly been moving away from the platform to familiarize myself with other toolchains. I am currently learning Rust, C#, and Java, with a focus on the last.
 
