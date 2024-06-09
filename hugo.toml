@@ -1,0 +1,87 @@
+baseURL = "https://unfowoseen.dev/"
+theme = "risotto"
+title = "unfowoseen.dev"
+author = "Raul Larosa"
+copyright = "Built with ❤️ (and CTRL+C CTRL+V) by Raul Larosa."
+paginate = 3
+languageCode = "en"
+defaultContentLanguage = "en"
+enableInlineShortcodes = true
+ignoreErrors = ["error-remote-getjson"]
+
+enableEmoji = true
+sectionPagesMenu = "main"
+
+[params.theme]
+palette = "tender"
+
+[params.about]
+title = "unfowoseen.dev"
+description = "All views expressed here are not my own; I am a fox."
+logo = "🦊"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-discord"
+title = "Discord"
+url = "https://discord.com/users/466036542939594753"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/Unfowoseen"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-xbox"
+title = "Xbox Live"
+url = "https://account.xbox.com/profile?gamertag=Unfowoseen"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:me@unfowoseen.dev"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = true
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
