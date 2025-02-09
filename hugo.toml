@@ -21,9 +21,9 @@ description = "All views expressed here are not my own; I am a fox."
 logo = "🦊"
 
 [[params.socialLinks]]
-icon = "fa-brands fa-discord"
-title = "Discord"
-url = "https://discord.com/users/466036542939594753"
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:web@unfowoseen.dev"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
@@ -31,14 +31,19 @@ title = "GitHub"
 url = "https://github.com/Unfowoseen"
 
 [[params.socialLinks]]
+icon = "fa-brands fa-paypal"
+title = "PayPal"
+url = "https://paypal.me/larosaraul"
+
+[[params.socialLinks]]
 icon = "fa-brands fa-xbox"
 title = "Xbox Live"
 url = "https://account.xbox.com/profile?gamertag=Unfowoseen"
 
 [[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:me@unfowoseen.dev"
+icon = "fa-brands fa-youtube"
+title = "YouTube"
+url = "https://www.youtube.com/@unfowoseen"
 
 [menu]
   [[menu.main]]
