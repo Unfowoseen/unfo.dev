@@ -45,6 +45,11 @@ icon = "fa-brands fa-youtube"
 title = "YouTube"
 url = "https://www.youtube.com/@unfowoseen"
 
+[[params.socialLinks]]
+icon = "fa-solid fa-heart"
+title = "GOG wishlist"
+url = "https://www.gog.com/en/u/Unfowoseen/wishlist"
+
 [menu]
   [[menu.main]]
     identifier = "about"
