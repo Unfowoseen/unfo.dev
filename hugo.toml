@@ -1,6 +1,6 @@
-baseURL = "https://unfo.dev/"
+baseURL = "https://me.unfo.dev/"
 theme = "risotto"
-title = "unfo.dev"
+title = "me.unfo.dev"
 author = "Raul Larosa"
 copyright = "Built with ❤️ (and CTRL+C CTRL+V) by Raul Larosa."
 paginate = 3
@@ -23,7 +23,7 @@ logo = "🦊"
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "mailto:web@unfo.dev"
+url = "mailto:raul@unfo.dev"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
@@ -44,11 +44,6 @@ url = "https://account.xbox.com/profile?gamertag=Unfowoseen"
 icon = "fa-brands fa-youtube"
 title = "YouTube"
 url = "https://www.youtube.com/@unfowoseen"
-
-[[params.socialLinks]]
-icon = "fa-solid fa-heart"
-title = "GOG wishlist"
-url = "https://www.gog.com/en/u/Unfowoseen/wishlist"
 
 [menu]
   [[menu.main]]
